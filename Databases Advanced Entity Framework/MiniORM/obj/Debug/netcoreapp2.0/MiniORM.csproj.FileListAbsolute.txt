@@ -1,0 +1,8 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

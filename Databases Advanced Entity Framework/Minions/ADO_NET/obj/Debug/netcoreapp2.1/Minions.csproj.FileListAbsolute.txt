@@ -1,0 +1,11 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\bin\Debug\netcoreapp2.1\Minions.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\bin\Debug\netcoreapp2.1\Minions.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\bin\Debug\netcoreapp2.1\Minions.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\bin\Debug\netcoreapp2.1\Minions.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\obj\Debug\netcoreapp2.1\Minions.csprojAssemblyReference.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\obj\Debug\netcoreapp2.1\Minions.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\obj\Debug\netcoreapp2.1\Minions.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\obj\Debug\netcoreapp2.1\Minions.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\bin\Debug\netcoreapp2.1\Minions.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\obj\Debug\netcoreapp2.1\Minions.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\ADO_NET\obj\Debug\netcoreapp2.1\Minions.pdb

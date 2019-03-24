@@ -1,0 +1,10 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\bin\Debug\netcoreapp2.1\P03_SalesDatabase.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Code_First\HospitalDatabase\P03_SalesDatabase\obj\Debug\netcoreapp2.1\P03_SalesDatabase.pdb

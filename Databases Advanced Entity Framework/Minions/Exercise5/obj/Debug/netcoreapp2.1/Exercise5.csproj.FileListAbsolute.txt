@@ -1,0 +1,14 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise5.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise1.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\bin\Debug\netcoreapp2.1\Exercise1.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.csprojAssemblyReference.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.csproj.CopyComplete
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Minions\Exercise5\obj\Debug\netcoreapp2.1\Exercise5.pdb

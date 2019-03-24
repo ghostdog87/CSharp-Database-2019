@@ -1,0 +1,14 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CopyComplete
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Advanced Relations\AdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb

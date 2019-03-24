@@ -1,0 +1,14 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csprojAssemblyReference.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CopyComplete
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.pdb

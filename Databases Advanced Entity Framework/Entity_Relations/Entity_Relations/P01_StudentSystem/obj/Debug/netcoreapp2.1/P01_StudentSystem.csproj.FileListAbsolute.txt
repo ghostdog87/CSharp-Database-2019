@@ -1,0 +1,11 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csprojAssemblyReference.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Entity_Relations\Entity_Relations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.pdb
