@@ -1,0 +1,14 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\Automapper\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb

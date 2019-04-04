@@ -1,0 +1,10 @@
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Softuni\C# Database 2019\Databases Advanced Entity Framework\XML\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
